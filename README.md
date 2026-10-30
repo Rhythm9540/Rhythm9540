@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Rhythm9540
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learnig
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Rhythm Kaushik
+- 👀 I’m interested in Data Engineering
 - 📫 How to reach me rhythmkaushik007@gmail.com
 
 <!---
